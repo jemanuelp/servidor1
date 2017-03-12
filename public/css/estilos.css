@@ -1,0 +1,78 @@
+body {
+    font-family: 'Raleway';
+    margin-top: 25px;
+}
+.fondo{
+    background-image: url('../images/fondo.jpg');
+    background-size: 100%;
+    width: 100%;
+}
+#contenedor{
+    background-color: rgba(95, 123, 126, 0.34);
+}
+#nomempr{
+    font-size: 100%;
+    color: #f9f9f9;
+    font-family: Arial;
+    background-color: rgba(117, 117, 117, 0.7);
+    border-radius: 15px;
+    border-width: 10px;
+    border-color: #009999;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: #f9f9f9;
+    font-family: Arial;
+}
+a:hover {
+    color: rgba(189, 248, 242, 0.39);
+}
+
+.fa-btn {
+    margin-right: 6px;
+}
+
+.table-text div {
+    padding-top: 6px;
+}
+.Menu-izq{
+    font-size: 20px;
+    font-style: inherit;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.contacto{
+    margin-top: 25px;
+    font-family: Arial;
+    font-size: 60px;
+    color: #ffffff;
+}
+#celular{
+    font-family: Arial;
+    color: #ffffff;
+}
+#fijo{
+    font-family: Arial;
+    color: #ffffff;
+}
+#contenido{padding: 10px 10px 10px 10px; text-indent: 15px; text-align: end}
+#reg, #sigin, #closes{
+    font-size: 15px;
+    color: #f9f9f9;
+    font-family: Arial;
+}
+#nombreu{
+    font-size: 17px;
+    color: #f9f9f9;
+    font-family: Arial;
+}
+#reg:hover{
+    background-color: rgba(132, 171, 174, 0.34);
+}
+#sigin:hover{
+    background-color: rgba(132, 171, 174, 0.34);
+}
+#closes:hover{
+    background-color: rgba(132, 171, 174, 0.34);
+}
